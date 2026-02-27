@@ -3,6 +3,9 @@
 **Project:** Real-Time Face Recognition Using Python  
 **Author:** Preetham Siddapura Umesh  
 **Domain:** Computer Vision / Machine Learning / AI  
+**Email:** [preetham.umesh2003@gmail.com]
+**LinkedIn:** [https://www.linkedin.com/in/preethamsu/]
+
 **Tools & Libraries:** Python, OpenCV, Haar Cascade, NumPy, face_recognition  
 
 ---
